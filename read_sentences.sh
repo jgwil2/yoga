@@ -19,3 +19,5 @@ do
 	date
 	sleep $time
 done
+
+say "all done!"
